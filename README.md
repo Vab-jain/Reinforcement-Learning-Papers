@@ -53,13 +53,13 @@ For any questions, feel free to contact me 📮.
 
 **Refine by Theme:**
 
-- [1_Multi-Agent Reinforcement Learning (MARL)](#1_Multi-Agent-Reinforcement-Learning)
-- [2_Meta Reinforcement Learning (Meta RL)](#2_Meta-Reinforcement-Learning)
-- [3_Hierarchical Reinforcement Learning (HRL)](#3_Hierarchical-Reinforcement-Learning)
-- [4_Multi-Task Reinforcement Learning (Multi-Task RL)](#4_Multi-Task-Reinforcement-Learning)
-- [5_Offline Reinforcement Learning (Offline RL)](#5_Offline-Reinforcement-Learning)
-- [6_Inverse Reinforcement Learning (IRL)](#6_Inverse-Reinforcement-Learning)
-- [7_Reinforcement Learning with Large Language Models](#7_Reinforcement-Learning-with-Large-Language-Models)
+- [1 Multi-Agent Reinforcement Learning (MARL)](#1-Multi-Agent-Reinforcement-Learning)
+- [2 Meta Reinforcement Learning (Meta RL)](#2-Meta-Reinforcement-Learning)
+- [3 Hierarchical Reinforcement Learning (HRL)](#3-Hierarchical-Reinforcement-Learning)
+- [4 Multi-Task Reinforcement Learning (Multi-Task RL)](#4-Multi-Task-Reinforcement-Learning)
+- [5 Offline Reinforcement Learning (Offline RL)](#5-Offline-Reinforcement-Learning)
+- [6 Inverse Reinforcement Learning (IRL)](#6-Inverse-Reinforcement-Learning)
+- [7 Reinforcement Learning with Large Language Models](#7-Reinforcement-Learning-with-Large-Language-Models)
 
 ### 1 Multi-Agent Reinforcement Learning
 
