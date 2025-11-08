@@ -61,7 +61,7 @@ For any questions, feel free to contact me 📮.
 - [6_Inverse Reinforcement Learning (IRL)](#6_Inverse-Reinforcement-Learning)
 - [7_Reinforcement Learning with Large Language Models](#7_Reinforcement-Learning-with-Large-Language-Models)
 
-### 1_Multi-Agent Reinforcement Learning
+### 1 Multi-Agent Reinforcement Learning
 
 - **Online Tuning for Offline Decentralized Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i7.25973)]
   - Jiechuan Jiang, Zongqing Lu. *AAAI 2023*.
