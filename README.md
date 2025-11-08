@@ -44,8 +44,12 @@ For any questions, feel free to contact me 📮.
 **Refine by Year:**
 
 - [2023 Conference Papers](./Refine-by-year/2023-Conference-Papers.md)
-
-
+- [2022 Conference Papers](./Refine-by-year/2022-Conference-Papers.md)
+- [2021 Conference Papers](./Refine-by-year/2021-Conference-Papers.md)
+- [2020 Conference Papers](./Refine-by-year/2020-Conference-Papers.md)
+- [2019 Conference Papers](./Refine-by-year/2019-Conference-Papers.md)
+- [2018 Conference Papers](./Refine-by-year/2018-Conference-Papers.md)
+- [2017 Conference Papers](./Refine-by-year/2017-Conference-Papers.md)
 
 **Refine by Theme:**
 

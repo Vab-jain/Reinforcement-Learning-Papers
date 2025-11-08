@@ -1,7 +1,6 @@
 # 2023-Conferences-Papers
 
-The proceedings of top conference in 2023 on the topic of **Reinforcement Learning** (RL), including: AAAI, IJCAI, NeurIPS, ICML, ICLR, ICRA, AAMAS and more.
-
+The proceedings of top conference in 2023 on the topic of **Reinforcement Learning (RL)**, including: AAAI, IJCAI, NeurIPS, ICML, ICLR, ICRA, AAMAS and more.
 
 ## Todo
 
